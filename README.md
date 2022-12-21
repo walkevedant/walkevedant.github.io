@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vedant Walke
-- 👀 I’m interested in MATLAB Software
-- 🌱 I’m currently learning Matlab
-- 💞️ I’m looking to collaborate on .Matlab
+- 👀 I’m interested in Data Science.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me My mail id is walkevedant5@gmail.com 
 
 <!---
