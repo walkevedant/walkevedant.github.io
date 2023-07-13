@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vedant Walke
-- 👀 I’m interested in Data Science.
+- 👀 I’m interested in Data Science, Statistics, machine learning.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me My mail id is walkevedant5@gmail.com 
 
